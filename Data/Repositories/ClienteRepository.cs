@@ -10,9 +10,9 @@ namespace TrabalhoPooBanco.Data.Repositories
     {
         private readonly DataContext context;
 
-        public ClienteRepository(DataContext context)
+        public ClienteRepository()
         {
-            this.context = context;
+            this.context = new DataContext();
         }
 
         public bool Delete(int entityId)
@@ -59,5 +59,7 @@ namespace TrabalhoPooBanco.Data.Repositories
         {
             return context.Clientes.Include(x => x.CPF);
         }
+
+
     }
 }
