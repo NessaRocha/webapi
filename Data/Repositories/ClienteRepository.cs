@@ -12,7 +12,9 @@ namespace TrabalhoPooBanco.Data.Repositories
 
         public ClienteRepository()
         {
-            this.context = new DataContext();
+            this.context = new DataContext(
+                
+            );
         }
 
         public bool Delete(int entityId)
