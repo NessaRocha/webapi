@@ -8,7 +8,7 @@ namespace webapi.Domain.DTOs
 {
     public class SaqueDTO
     {
-        public int IdSaque { get; set; }
+
         public Cliente Cliente { get; private set; }
     }
 }

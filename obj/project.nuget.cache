@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b+1sh03VNbK3AvE9LQ50KvVeXJ6xt8oNZSDDKnLAEmjAvpGZDhUxrDRYfHZtkuej5zgAyND7NCNhJYoIJQigaw==",
+  "dgSpecHash": "dJvIJZzh8WQOtBhJChmvitGwEVjR1qc+nfP3NnBHcEIBLw3ADjU+TK2nWQYuatG6sGwnrTfG6BvnaNdVkL0x2w==",
   "success": true,
   "projectFilePath": "C:\\Users\\webapi\\TrabalhoPooBanco.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nessa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\nessa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\nessa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\nessa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\nessa\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "C:\\Users\\nessa\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\nessa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
