@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace webapi.Domain.ViewModels
 {
-    public class DepositoVewModels
+    public class DepositoViewModels
     {
-        
+
     }
 }
