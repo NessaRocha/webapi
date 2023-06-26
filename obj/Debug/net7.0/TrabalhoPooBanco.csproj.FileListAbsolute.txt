@@ -269,3 +269,4 @@ C:\Users\webapi\obj\Debug\net7.0\TrabalhoPooBanco.pdb
 C:\Users\webapi\obj\Debug\net7.0\TrabalhoPooBanco.genruntimeconfig.cache
 C:\Users\webapi\obj\Debug\net7.0\ref\TrabalhoPooBanco.dll
 C:\Users\webapi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\webapi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

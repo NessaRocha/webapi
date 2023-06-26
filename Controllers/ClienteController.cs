@@ -21,10 +21,10 @@ namespace webapi.Controllers
 
         private readonly IMapper _mapper;
 
-        public ClienteController()
+        public ClienteController(IClienteRepository clienteRepository)
         {
-            object clienteRepository = null;
             _clienteRepository = clienteRepository;
+            IMapper mapper = null;
             _mapper = mapper;
         }
 
