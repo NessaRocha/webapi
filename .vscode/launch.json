@@ -20,9 +20,6 @@
                 "action": "openExternally",
                 "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
             },
-            "name": ".NET Core Attach",
-            "type": "coreclr",
-            "request": "attach",
             "internalConsoleOptions": "openOnSessionStart",
             "logging": {
                 "moduleLoad": true
