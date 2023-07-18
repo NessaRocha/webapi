@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WTO63B5aF6Vtyd1uyyJBCzUXqywV5GKdIVZCwaHOsKb1gjpmF5aRDpmUogfhFuuZ3ddnmjNIwRk0jVK47I8qjA==",
+  "dgSpecHash": "JYW0TJkdOvo3e+a/EpFt0sy0D+Xt6sAlB9YgegpaTtwTxtfPh+so5jI+tDBURxe1Wm5k10bNe6J/9xsqsghBjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\webapi\\TrabalhoPooBanco.csproj",
+  "projectFilePath": "C:\\Users\\nessa\\OneDrive\\Documentos\\GitHub\\webapi\\TrabalhoPooBanco.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nessa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\nessa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

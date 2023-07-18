@@ -1852,24 +1852,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nessa\\.nuget\\packages\\": {}
+    "C:\\Users\\nessa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\webapi\\TrabalhoPooBanco.csproj",
+      "projectUniqueName": "C:\\Users\\nessa\\OneDrive\\Documentos\\GitHub\\webapi\\TrabalhoPooBanco.csproj",
       "projectName": "TrabalhoPooBanco",
-      "projectPath": "C:\\Users\\webapi\\TrabalhoPooBanco.csproj",
+      "projectPath": "C:\\Users\\nessa\\OneDrive\\Documentos\\GitHub\\webapi\\TrabalhoPooBanco.csproj",
       "packagesPath": "C:\\Users\\nessa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\webapi\\obj\\",
+      "outputPath": "C:\\Users\\nessa\\OneDrive\\Documentos\\GitHub\\webapi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\nessa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\nessa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1931,7 +1938,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
